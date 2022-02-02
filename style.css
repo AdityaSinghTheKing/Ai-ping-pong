@@ -1,0 +1,21 @@
+#header{
+    width: 100%;
+    text-align:left;
+}
+#instructions{
+    float: right;
+}
+#header h3{
+    display: inline;
+}
+#copyrightfooter{
+    bottom: 0px;
+    background-color:grey;
+    color: white;
+    line-height: 2;
+    position: fixed;
+    width: 100%;
+}
+.modal-dialog{
+    width: 80%;
+}
